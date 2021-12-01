@@ -4,9 +4,20 @@
 
 ### Dataset Preparation
 In our experiments, we use the UCR time series achive to evaluate our model, which it includes 128 vary datasets and its details are shown at http://www.timeseriesclassification.com . 
+
+### Download
+```
+git clone https://github.com/xiaozw1994/EFDLS.git
+```
+
 ### Install require tools
 ```
-Details are shown in Require.txt.
+Details are shown in require.txt. #
+      #without environment
+        pip3 install -r require.txt
+        mkdir data
+        mkdir basicFCN
+        mkdir FedTemp1
 ```
 ### Modify the adress of UCR Archive
 ```
