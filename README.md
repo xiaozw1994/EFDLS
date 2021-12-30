@@ -1,6 +1,6 @@
 # An Efficient Federated Distillation Learning System for Time Series Classification
-## Submit to ACM KDD 2022
-## Preparation
+## Submit to IEEE Transactions on Knowledge and Data Engineering 
+## Preprint at Arxiv 
 
 ### Dataset Preparation
 In our experiments, we use the UCR time series achive to evaluate our model, which it includes 128 vary datasets and its details are shown at http://www.timeseriesclassification.com . 
