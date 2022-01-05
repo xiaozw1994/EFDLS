@@ -1,9 +1,9 @@
-# An Efficient Federated Distillation Learning System for Time Series Classification
+# An Efficient Federated Distillation Learning System for Multi-task Time Series Classification
 ## Submit to IEEE Transactions on Knowledge and Data Engineering 
-## Preprint at Arxiv 
+## Preprint at Arxiv： https://arxiv.org/abs/2201.00011
 
 ### Dataset Preparation
-In our experiments, we use the UCR time series achive to evaluate our model, which it includes 128 vary datasets and its details are shown at http://www.timeseriesclassification.com . 
+In the experiments, we use the UCR time series archive to evaluate our model. This archive includes 128 datasets and their details are shown at http://www.timeseriesclassification.com. 
 
 ### Download
 ```
